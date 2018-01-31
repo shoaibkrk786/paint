@@ -1,0 +1,42 @@
+.btn_width{
+
+    width:90px;
+    border-color:red;
+    border-radius:0px;
+    background-color:red;
+    height: 31px;
+}
+.phon_clr{
+    color:red;
+}
+.Height_contctus{
+    background-color:#e9eef2;
+    margin-top:20px;
+    height:563px;
+}
+.text_wanttoexpert{
+    margin-top:45px;
+    margin-bottom:25px;
+}
+.button_position{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.image_margin{
+    margin-bottom:30px;
+}
+.banner_paddingright{
+    padding-right:5px;
+    padding-left:0px;
+}
+.image_height{
+    height:565px;
+}
+#hom_slid_marg{
+    margin-top: 50px;
+}
+@media (max-width: 1200px) {
+    #hom_slid_marg{
+        margin-top: 140px;
+    }
+}

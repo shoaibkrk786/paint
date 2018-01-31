@@ -1,0 +1,156 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 14, 2017, 3:34:53 PM
+    Author     : brosol
+*/
+
+.abc{
+
+    margin-left:60px;
+    margin-top:-80px;
+
+}
+.text{
+
+    margin-left:225px;
+    margin-top:-131px;
+
+}
+.dark_klr{
+    background-color:#9f9ea3;
+    height:auto;
+
+
+}
+
+.btn_padding{
+    padding-right:40px;
+    padding-top:30px;
+}	
+.btn_size{
+    background-image:url(images/INTRO-PAGE-DULUX_btn.png);
+    width:165px;
+    height:50px;
+    background-repeat:no-repeat;
+    background-color:red;
+    border-bottom-left-radius:20px;
+    border-bottom-right-radius:20px;
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+    border:none;
+}
+#abt_us{
+    color:white;
+    background-color:#012269;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border:none;
+    padding-left:20px;
+    margin-left:-15px;
+    margin-right:50px;
+}
+.about_us{
+    padding-top:1px;
+
+
+}
+#our_products{
+    color:white;
+    background-color:#012269;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border:none;
+    margin-left:-15px;
+
+
+}
+.panel_width{
+
+    width:47%;
+}
+.whit_clr{
+    background-color:#d2d0d1;
+    padding-top:1px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border:none;
+    height:auto;
+}
+.whit_clr1{
+
+    background-color:#8A8890;
+    padding-top:1px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border:none;
+
+}	
+#backgrount_clr{
+
+    background-color:#d2d0d1;
+}
+.panel_width2{
+
+    width:20%;
+}
+#get_intouch{
+    color:white;
+    background-color:#012269;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border:none;
+
+}
+.txtbox_width{
+    width:40%;
+
+}
+.txtbox_width2{
+    width:92%;	
+
+}
+.dropdown_width{
+
+    padding-left:650px;
+    margin-right:-260px;
+    margin-top:-30px;
+}
+.txtbox_width3{
+    width:92%;
+
+}
+.button_size{
+
+    margin:10px 100px 10px auto;
+
+}
+.btn_size1{
+    width:120px; 
+    background-color:#012269;
+}
+.border_area{
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    background-color:#BBB4B7;
+
+
+}
+. back_colour{
+    background-color:black;
+    height:100px;}

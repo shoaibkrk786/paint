@@ -1,0 +1,254 @@
+.bgsetting{
+	padding-top: 230px;
+    padding-left: 150px;
+	
+	}
+#bgtext{
+	padding-left: 16px;
+	margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: #e6772f;
+    height: 36px;
+    width: 350px;
+	}
+.centre_bar{
+	background-color:#e6772f;
+	width:100%;
+	height:5px;
+	}
+.services_bg{
+	background-color:#474342;
+	width:100%;
+	height:500px;
+	}
+#services_text{
+	 background-color: #e6772f;
+	  height: 60px;
+	  width: 800px;
+      
+	}
+#no_margin{
+	margin-top:0px;
+	margin-bottom:0px;
+	padding-right: 20px;
+    padding-top: 7px;
+	
+	}
+.boxes_bg{
+	background-color:#837f7f;
+	height:300px;
+	}
+.box_space{
+	padding-right: 0px;
+    padding-left: 79px;
+	}
+.textsetting{
+	width: 206px;
+    padding-right: 0px;
+    padding-left: 0px;
+	}
+.imgset{
+	padding-left: 46px;
+    margin-top: -43px;
+	}
+#living_rm{
+	padding-left: 5px;
+    padding-right: 5px;
+	}
+#botttom_bar{
+	background-color:#474342;
+	height:70px;
+	width:100%;
+	}
+#portfolio_bg{
+	background-color:#cccbcb;
+	height:100px;
+	width:100%;
+	}
+#portfolio{
+	padding-left:426px;
+	margin-top:-50px;
+	position:absolute;
+	
+	}
+.gallery_img{
+	height:580px;
+	width:100%;
+	background-color:#a19690;
+	
+	}
+#gallery_div{
+	padding-top:20px;
+	
+	}
+#imgrite{
+	height:370px;
+	
+	}
+#img1{
+	width:315px;
+	height:150px;
+	}
+#img2{
+	width:250px;
+	height:150px;
+	}
+#img3{
+	width:425px;
+	height:150px;
+	}
+#img4{
+	width:300px;
+	height:150px;
+	}
+#img_pading{
+	padding-right:0px;
+	}
+#try_us_car{
+	padding-top:10px;
+	height:70px;
+	width:100%;
+	background-color:#e6772f;
+	color:#FFF;
+	
+	}
+#try_h1{
+	margin-top:0px;
+	margin-bottom:0px;
+	
+	}
+#car_form{
+	background-color:#a3a09f;
+	height:500px;
+	width:100%;
+	}
+#btn_style{
+	color: #e6772f;
+    background-color: #474342;
+	padding: 14px 37px;
+    font-size: 37px;
+    line-height: 1.3333333;
+    border-radius: 9px;
+	border-color:transparent;
+	}
+#form_rbg_carp{
+
+	background-color: #a3a09f;
+	height:auto;
+	padding-top: 40px;
+	padding-bottom: 10px;
+}
+#support{
+	width:100%;
+	height:200px;
+	background-color:#474342;
+	}
+#carp_img{
+	padding-left: 100px;
+	}
+#support_text{
+	    color: #e6772f;
+		padding-top:10px;
+	}
+#under_line{
+	border-top: 1px solid #898584;
+	width:15%;
+	}
+	.btn_style{
+	padding: 14px 37px;
+    font-size: 37px;
+    line-height: 1.3333333;
+    border-radius: 9px;
+	background-color:#ed0101;
+	border-color:transparent;
+	}
+.input_style{
+	background-color:#cdcbcc;
+	height: 50px;
+	border-radius: 8px;
+}
+#img_bottom{
+	margin-top: -100px;
+    position: absolute;
+	z-index: 1;
+	}
+#support_bg_carp{
+	background-color:#474342;
+	padding-bottom: 10px;
+}
+#support_carp{
+	color: #e6772f;
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+#btn_style{
+	color: #e6772f;
+	background-color: #474342;
+	padding: 7px 25px;
+	font-size: 18px;
+	line-height: 1.3333333;
+	border-radius: 6px;
+	border-color:transparent;
+
+}
+
+@media (max-width: 992px) {
+	#services_text{
+		background-color: #e6772f;
+		height: auto;
+		width: 60%;
+
+	}
+	.services_bg{
+		background-color:#474342;
+		width:100%;
+		height:auto;
+	}
+	.box_space{
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+	.boxes_bg{
+		background-color:#837f7f;
+		height:auto;
+	}
+	.imgset{
+		padding-left: 46px;
+		margin-top: 0px;
+	}
+	#portfolio_bg{
+		background-color:#cccbcb;
+		height:auto;
+		width:100%;
+	}
+	#portfolio{
+		padding-left:0px;
+		margin-top:0px;
+		position:relative;
+		margin-left: 25%;
+	}
+	.gallery_img{
+		height:auto;
+		width:100%;
+		background-color:#a19690;
+	}
+	#btn_style{
+		color: #e6772f;
+		background-color: #474342;
+		padding: 7px 25px;
+		font-size: 12px;
+		line-height: 1.3333333;
+		border-radius: 6px;
+		border-color:transparent;
+
+	}
+	#imgrite{
+		height:207px;
+
+	}
+	#support_bg_carp{
+		background-color:#474342;
+		padding-bottom: 40px;
+	}
+}

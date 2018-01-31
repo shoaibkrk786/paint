@@ -1,0 +1,162 @@
+.gryclr{
+    background-color:#d7d7d7;
+    height:auto;
+}
+.white_clr{
+    background-color:white;
+    height:350px;
+    border-radius: 5px;
+
+}
+.td_kh{
+    width: 132px;
+    font-weight: bold;
+    border-right: 1px solid #ddd;
+    padding-left: 20px;
+}
+.tr_kh{
+    
+/*    border-top: 2px solid;*/
+}
+.btn_shape{
+    border-bottom-right-radius:40px;
+    border-top-right-radius:40px;
+    width:130px;
+    background-color:red;
+    border:none;
+}
+.clour_img{
+    margin-left: -38px;
+    margin-top: 26px;
+    height: 64px;
+}
+.img_center{
+    padding-top:10px;
+    margin-left:5px;
+}
+
+.pBld{
+    font-weight: bold;
+}
+.panel_clr{
+    background-color:red;
+    border:none;
+    border-bottom-left-radius:5px;	
+    border-top-left-radius:5px;	
+    border-bottom-right-radius:5px;	
+    border-top-right-radius:5px;
+    height:50px;	
+
+}
+.border{
+    border:.5px solid #a9a8a8;
+    border-bottom-left-radius:7px;	
+    border-top-left-radius:7px;	
+    border-bottom-right-radius:7px;	
+    border-top-right-radius:7px;	
+
+}
+
+
+.checkbox_padding{
+    margin-top:-60px;
+    margin-right:20px;
+}
+
+.comentbox_padding{
+    padding:0px 40px 0px 30px;
+
+}
+.textbox_padding{
+    padding-right:40px;
+}
+
+.btn_padding1{
+    padding-left:30px;
+    margin-top:-87px;
+    padding-bottom:20px;
+
+}
+
+.btn_background{
+    background-color:white;
+    border:none;
+    color:black;
+}
+
+
+.btn_size{
+    height:40px;
+    width:130px;
+    margin-left:0px;
+    background-color:#cdcccc;
+    border:none;
+    border-top-right-radius:30px;
+    border-bottom-right-radius:30px;
+}
+
+
+.btn_size3{
+    height:40px;
+    width:130px;
+    margin-left:10px;
+    background-color:#cdcccc;
+    border:none;
+    border-top-left-radius:30px;
+    border-bottom-left-radius:30px;
+}
+
+.btn_padding2{
+    padding-left:330px;
+    padding-bottom:50px;
+
+
+}.font_text{
+    font-family:Ubuntu;
+    font-size:18pt;
+
+
+}
+.font_text2{
+
+    font-family:Ubuntu;
+    font-size:7.33pt;
+}
+.font_text2{
+
+    font-family:Ubuntu;
+    font-size:10.89pt;
+}
+.table_border{
+
+
+    border-color:white;
+
+}
+
+.chec_padding{
+    margin-right:5px;
+
+}
+.font_text3{
+    font-family:Ubuntu;
+    font-size:10.49pt;
+
+}
+@media(max-width: 1000px) {
+    .clour_img{
+        margin-left: 0px;
+        margin-top: 26px;
+        height: 64px;
+    }
+
+}
+
+
+
+
+
+
+
+
+

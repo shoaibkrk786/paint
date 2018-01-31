@@ -1,0 +1,220 @@
+#top_space{
+	padding-top: 25%;
+}
+#plum_text{
+	width:370px;
+	background-color:#474342;
+	color:white;
+	font-family:ubuntu;
+	height:40px;
+
+}
+#plum_port{
+
+	z-index:1;
+}
+#plum_try{
+	background-color:#f8c140;
+	height:50px;
+	width:100%;
+	z-index:1;
+}
+
+
+.img_top{
+	margin-top:-6%;
+	padding-left:0px;
+
+}
+#yellow_clr{
+	height:40px;
+	background:#f8c140;
+
+}
+.service_img{
+	margin-top: -6%;
+	margin-left: 43%;
+
+}
+#arch_img1{
+	padding-left:35%;
+
+}
+#arch_img2{
+	padding-left:35%;
+
+}
+#arch_img3{
+	padding-left:35%;
+}
+
+#arch_img4{
+	padding-left:37%;
+
+}
+.dark_clr{
+	background-color:#b7b5b5;
+	z-index:1;
+	height:auto;
+	padding-bottom:4%;
+}
+.image_1{
+	margin-left:6%;
+	margin-top:-8%;
+	z-index:1;
+}
+.image_2{
+	margin-left:470px;
+	margin-top:-8%;
+	z-index:1;
+}
+.image_3{
+	margin-left:800px;
+	margin-top:-8%;
+	z-index:1;
+}
+.image_4{
+	margin-left:1130px;
+	margin-top:-8%;
+	z-index:1;
+}
+.proyfolio{
+	margin-top:-60px;
+	padding-left:34%;
+
+}
+.dark_clr2{
+	background-color:#a39895;
+	margin-top:0px;
+	height:auto;
+	padding-bottom:7%;
+}
+#plum_gallery1{
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:10px;
+}
+#plum_gallery2{
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:10px;
+}
+#plum_gallery3{
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:10px;
+}
+#plum_gallery4{
+	padding-left:0px;
+	padding-right:0px;
+
+}
+#img1_ht{
+	padding-right:10px;
+}
+/*#img2_ht{
+	height:355px;
+	}*/
+
+.best_work{
+	margin-top:-680px;
+	position:relative;
+	padding-left:280px;
+	z-index: 1;
+}
+.try_us{
+	margin-left:40%;
+	margin-top:-10px;
+
+}
+#car_form{
+	background-color:#a3a09f;
+	height:500px;
+	width:100%;
+}
+#btn_style{
+	color:#f8c140 ;
+	background-color: #474342;
+	padding: 7px 25px;
+	font-size: 18px;
+	line-height: 1.3333333;
+	border-radius: 6px;
+	border-color:transparent;
+}
+
+#support{
+	width:100%;
+	height:200px;
+	background-color:#474342;
+}
+#carp_img{
+	padding-left: 100px;
+}
+#support_text{
+	color: #714065;
+	padding-top:10px;
+
+}
+#under_line{
+	border-top: 1px solid #898584;
+	width:13%;
+	margin-top:-5px;
+}
+
+.input_style{
+	background-color:#cdcbcc;
+	height: 50px;
+	border-radius: 8px;
+
+}
+#img_bottom{
+	margin-top: -100px;
+	position: absolute;
+}
+.border_descriptn{
+	border-radius:15px;
+}
+.number{
+	margin-top:-5px;
+}
+#support_bg_plum{
+	background-color:#474342;
+	padding-bottom: 10px;
+
+}
+#support_plum{
+	color: #f8c140;
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+#form_rbg{
+
+	background-color: #a3a09f;
+	height:auto;
+	padding-top: 40px;
+	padding-bottom: 10px;
+}
+
+@media (max-width:992px)
+
+{
+	#arch_port {
+		background-color: #ae6e9f;
+		z-index: 0;
+	}
+	#support_bg_plum{
+		background-color:#474342;
+		padding-bottom: 40px;
+
+	}
+	#btn_style{
+		color:#f8c140 ;
+		background-color: #474342;
+		padding: 10px 45px;
+		font-size: 12px;
+		line-height: 1.3333333;
+		border-radius: 9px;
+		border-color:transparent;
+	}
+}
